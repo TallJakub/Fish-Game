@@ -1,2 +1,2 @@
 # Fish-Game
-My project named FishGame (updates once to three times a week)
+My project named FishGame (updates once to five times a week)
